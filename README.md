@@ -5,7 +5,7 @@
 <p>✍️ I am actively writing React Native and React.</p>
 <p>🐍 I am learning Python for backend development. I am also learning Typescript,C++,Kotlin</p>
 
-<p>🎓 I am currently an ALX S.E undergraduate.</p>
+
 <p>♟️ I play chess and solve problems in my free time.</p>
 <p>👶 Not really necessary to add this, but I love babies.</p>
 <p>✉️ You can contact me at <a href="mailto:ayotibami14@gmail.com">ayotibami14@gmail.com</a>.</p>
