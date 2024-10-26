@@ -1,5 +1,5 @@
 <h1>👋 Hi, I am Ayobami Masterpiece</h1>
-<h2>💻 I love creating software (maybe because it is soft, not hard like hardware)</h2>
+<!-- <h2>💻 I love creating software (maybe because it is soft, not hard like hardware)</h2> -->
 <hr>
 <p>🛠️ I am currently building Ayoti and its first product, Kampos.</p>
 <p>✍️ I am actively writing React Native and React.</p>
